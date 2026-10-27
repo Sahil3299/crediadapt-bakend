@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+tabulate
+streamlit
+langchain
+langchain-google-genai
+langchain-core
+pydantic
+fastapi
+uvicorn
+python-dotenv
+pymongo
+PyJWT
+bcrypt
